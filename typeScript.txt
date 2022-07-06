@@ -1,0 +1,25 @@
+TypeScript
+
+   * Adiciona definição estática de tipos:
+      Funcionalidades do código mais explícitas;
+      Maior segurança durante o desenvolvimento;
+      Detect erros durante a compilação que só
+      seriam percebidos em execução;
+
+   * Compila um JavaScript mais resiliente;
+   
+   * Ajuda a desenvolver boas práticas de programação;
+
+Setup do Ambiente:
+
+* Projeto Node:
+  - Intalar o Node
+  - Abrir a pasta do projeto com o terminal;
+  - inserir 'npn init';
+  - Confirmar todas as configurações.
+
+* Typescript:
+  - npm install -g typescript
+  - npm instal typescript
+
+  ** https://github.com/lira1705/mentoria-typescript
